@@ -1,1 +1,1 @@
-# 472_ML_WS5
+This code accounts for missing values and outliers. As well as identify the relationships between what values effect hysrgen strage. This code also contains code for a machine learning model to determine what features significantly impact the storage of hydrogen..
